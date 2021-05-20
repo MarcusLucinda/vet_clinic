@@ -1,11 +1,16 @@
 ### An internal system for a veterinary clinic
 
-## General Scheme
+## Features
+- Control of clients and their animals;
+- Control of veterinarians appointment schedule;
+- Register of provided services;
+
+## General Schema
 
 The application was made with the Spring Boot framework for handling MVC relations, PostgreSQL as the database and Apache Tomcat as a servlet container.
 The general view is as follows:
 
-![image](https://user-images.githubusercontent.com/51497214/118864318-3eacc200-b8b6-11eb-9c7b-5d4b4f16a73e.png)
+![image](https://user-images.githubusercontent.com/51497214/119031149-22298c00-b981-11eb-840a-bd02bba43c82.png)
 
 
 
